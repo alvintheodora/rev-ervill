@@ -1,2 +1,2 @@
 # rev-ervill
-API Endpoints of http://rev-ervill.esy.es
+Visit http://rev-ervill.esy.es/api for the API Endpoints documentation.
